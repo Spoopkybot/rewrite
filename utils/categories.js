@@ -1,0 +1,1 @@
+module.exports = ["general", "economy", "moderation", "games", 'developer']
